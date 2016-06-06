@@ -1,6 +1,6 @@
 # Host density and tsetse population dynamics
 
-<img src="http://mmed2016.ici3d.org/projects/tsetseOSU.jpg" alt="Tsetse Fly" title="Photo courtesy of Oregon State University"  style="margin:0px; display: block; width : 400px;" />
+<img src="http://mmed2016.ici3d.org/projects/tsetseOSU.jpg" alt="Tsetse Fly" title="Photo courtesy of Oregon State University"  style="margin:0px; display: block; width : 400px; align: center" /><br>
 <a href="https://www.flickr.com/photos/oregonstateuniversity/10040375154/in/photolist-giexJs-dteEn5-dtet98-fstqeX-dRo1dd-8UbzgF-oCDocs-zi39s-dwBgLz-7djL6s-dr7JVJ-7dgMwp-fvhuwf-d4RUJS-8on7Yc-8E1emp-3YSJr2-dr7GtW-6Vmgup-dr7whv-Bfrn5S-5KT5we-7WkSe2-BEgfNL-fnh1U4-dRo19h-dwGLHb-dr7zva-dwGMnE-dr7KLf-dr7yXa-dRhrMi-dwBgnF-dr7zTz-dwBgDH-dRo1aW-dr7K29-dr7GKC-dRhrH6-dr7y92-7WkNfg-dr7HCQ-DEij9-pPEoeU-8Mz1g-7WkRfD-dr7z5V-dRhrJV-dr7Kwq-dr7xrK">Photo courtesy of Oregon State University</a>
 
 ##Overview
@@ -17,26 +17,24 @@ This group will analyse data from such a study, which examined changes in catche
 
 ## Data
 
-The following data sources and other resources are available:
+The following data sources and other resources are available in the [**Data folder**](./Data):
 
 - Nagupande Mammals shot by month & species
 - Nagupande Flyround catches of _G. morsitans_ by month
 - Nagupande Simulation using Fisher equation
 - Meteorological data from the research station (as available)
 
-## Resources
+## Readings
 
-### References
+The following data sources and other resources are available in the [**Readings folder**](./Readings):
 
 - Robertson, AG (1968) Nagupande selective hunting experiment. Unpublished Report.
-(available to project group, and upon request to other ICI3D participants)
-- Hargrove, JW & BG Williams (1998) Optimized simulation as an aid to modelling, with an application to the study of a population of tsetse flies, _Glossina morsitans morsitans_ Westwood (Diptera: Glossinidae). _Bulletin of Entomological Research_ 88: 425-435. ([download][HargroveWilliams1998])
-- Hargrove, JW (2003) Tsetse eradication: sufficiency, necessity and desirability. Research report, DFID Animal Health Programme, Centre for Tropical Veterinary Medicine, University of Edinburgh, UK. ([download][Hargrove2003])
-- Hargrove, JW & DF Lovemore (2006) Simulation of tsetse control operations by selective hunting: the Nagupande experiment in Zimbabwe.  Incomplete draft manuscript. (available to project group, and upon request to other ICI3D participants)
+- Hargrove, JW & BG Williams (1998) Optimized simulation as an aid to modelling, with an application to the study of a population of tsetse flies, _Glossina morsitans morsitans_ Westwood (Diptera: Glossinidae). _Bulletin of Entomological Research_ 88: 425-435.
+- Hargrove, JW (2003) Tsetse eradication: sufficiency, necessity and desirability. Research report, DFID Animal Health Programme, Centre for Tropical Veterinary Medicine, University of Edinburgh, UK.
+- Hargrove, JW & DF Lovemore (2006) Simulation of tsetse control operations by selective hunting: the Nagupande experiment in Zimbabwe.  Incomplete draft manuscript.
 
-[HargroveWilliams1998]: https://github.com/ICI3D/MMED2016/raw/master/Materials/tsetseProject/HargroveWilliams1998.pdf
-[Hargrove2003]: https://github.com/ICI3D/MMED2016/raw/master/Materials/tsetseProject/Hargrove2003.pdf
+## Tutorials
 
-### Tutorials
+The following tutorial from week 1 is suggested for anyone who has not already completed it:
 
-- Tutorial 4: [Visualizing Infectious Disease Data in R](./visualizeData) (recommended)
+- Tutorial 4: [Visualizing Infectious Disease Data in R](./visualizeData)
